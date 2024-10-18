@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "nombre": "Espejos",
+    "precio": 12000,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_648801-MLA43384031072_092020-T.webp",
+    "cantidad": 1
+    },
+    {
+    "id": 2,
+    "nombre": "Guantes",
+    "precio": 10000,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_938435-CBT72317017327_102023-O.webp",
+    "cantidad": 1
+    },
+    {
+    "id": 3,
+    "nombre": "Casco",
+    "precio": 100000,
+    "img": "https://www.heavenimagenes.com/heavencommerce/68ac9d04-8767-4aca-9951-49f2fea1383b/images/v2/PUNTO%20EXTREMO/30452_medium.jpg",
+    "cantidad": 1    
+    },
+    {
+    "id": 4,
+    "nombre": "Luces",
+    "precio": 16000,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_899432-MLA51372394679_092022-O.webp",
+     "cantidad": 1
+    }
+    ]
